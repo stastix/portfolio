@@ -1,5 +1,5 @@
 # Next.js Portfolio:
-This repository contains the code for a Next.js Creative Portfolio website built using Next.js, Three.js and Tailwind. <br />
+This repository contains the code for a Next.js Portfolio website built using Next.js, Three.js and Tailwind. <br />
 
 For a demo, check out the following link:  
 [Next.js Creative Portfolio Website Demo](https://portfolio-ebon-xi-55.vercel.app)
