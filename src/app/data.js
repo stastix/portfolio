@@ -1,91 +1,61 @@
-/*
-Websites:
-
-- https://github.com/pmndrs/gltfjsx (GLTF JSX for 3D Models)
-- https://lucide.dev/icons/ (Lucide Icons)
-- https://github.com/anuraghazra/github-readme-stats (Github Readme Stats)
-- https://skillicons.dev (Skill Icons to show skills)
-- https://github-readme-streak-stats.herokuapp.com (Github Readme Streak Stats)
-
-:root {
-  --background: 27 27 27;
-  --foreground: 225 225 225;
-  --muted: 115 115 115;
-  --accent: 254 254 91; #FEFE5B
-}
-
-*/
-
 export const projectsData = [
   {
     id: 1,
-    name: "EcoTracker",
-    description: "Track your carbon footprint",
-    date: "2022-08-15",
-    demoLink: "https://ecotracker.example.com",
-  },
-  {
-    id: 2,
-    name: "ArtGallery Online",
-    description: "Digital art showcase platform",
-    date: "2022-06-20",
-    demoLink: "https://artgalleryonline.example.com",
-  },
-  {
-    id: 3,
-    name: "BudgetPlanner",
-    description: "Plan and track expenses",
-    date: "2022-09-10",
-    demoLink: "https://budgetplanner.example.com",
+    name: "3D Cube",
+    description:
+      "A 3D cube that rotates and allows for dynamic changes in both its color and shape, providing a starting point for exploring Three.js",
+    date: "2025",
+    demoLink: "https://3dcube-ruddy.vercel.app",
   },
   {
     id: 4,
-    name: "HealthBeat",
-    description: "Monitor heart rate zones",
-    date: "2022-05-30",
-    demoLink: "https://healthbeat.example.com",
-  },
-  {
-    id: 5,
-    name: "RecipeFinder",
-    description: "Discover new recipes",
-    date: "2022-07-12",
-    demoLink: "https://recipefinder.example.com",
+    name: "Broken Music Player",
+    description:
+      "A Spotify-inspired web app with user authentication, music browsing, and track commenting—without handling music uploads.",
+    date: "2024",
+    demoLink: "https://github.com/stastix/Broken-Music-Player",
   },
   {
     id: 6,
-    name: "JourneyLogger",
-    description: "Log your travels",
-    date: "2022-10-01",
-    demoLink: "https://journeylogger.example.com",
+    name: "CI/CD Pipeline",
+    description:
+      "A CI/CD pipeline for automating the deployment of web applications, built with Jenkins, Docker, and Kubernetes.",
+    date: "2024",
+    demoLink: "https://github.com/stastix/Events-",
   },
+  {
+    id: 5,
+    name: "Artify Admin",
+    description:
+      "Artify Admin is a platform for managing payouts and streamlining operations, featuring a user-friendly interface for tracking payments and user data, built with React, TypeScript, and MongoDB.",
+    demoLink: "",
+    date: "2024",
+  },
+  {
+    id: 2,
+    name: "Co&Co",
+    description:
+      "ESPRIT bal des projets candidate, Discover ideal roommates and reliable carpooling options, designed for easy connections and shared convenience.",
+    date: "2024",
+    demoLink: "https://github.com/stastix/CO-CO-ANGULAR",
+  },
+
+  {
+    id: 3,
+    name: "EpicJourneys",
+    description:
+      "A web and desktop application designed to streamline the organization of travels and trips.",
+    date: "2023",
+    demoLink: "https://github.com/stastix/Sprit-web",
+  },
+
   {
     id: 7,
-    name: "StudyBuddy",
-    description: "Collaborative learning platform",
-    date: "2022-04-18",
-    demoLink: "https://studybuddy.example.com",
-  },
-  {
-    id: 8,
-    name: "TechTalk",
-    description: "Tech news aggregator",
-    date: "2022-11-05",
-    demoLink: "https://techtalk.example.com",
-  },
-  {
-    id: 9,
-    name: "FitTrack",
-    description: "Fitness and workout tracker",
-    date: "2022-03-22",
-    demoLink: "https://fittrack.example.com",
-  },
-  {
-    id: 10,
-    name: "MindfulMoments",
-    description: "Meditation and mindfulness app",
-    date: "2022-02-14",
-    demoLink: "https://mindfulmoments.example.com",
+    name: "Python vocal assistant",
+    description:
+      "A Python vocal assistant that can perform a variety of tasks, including sending emails, searching the web, and providing weather updates.",
+    date: "2023",
+    demoLink: "",
   },
 ];
 
@@ -96,20 +66,14 @@ export const BtnList = [
   { label: "Contact", link: "/contact", icon: "contact", newTab: false },
   {
     label: "Github",
-    link: "https://www.github.com/codebucks27",
+    link: "https://github.com/stastix",
     icon: "github",
     newTab: true,
   },
   {
     label: "LinkedIn",
-    link: "https://www.linkedin.com/in/codebucks",
+    link: "https://www.linkedin.com/in/achraf-boubaker/",
     icon: "linkedin",
-    newTab: true,
-  },
-  {
-    label: "X",
-    link: "https://www.x.com/code_bucks",
-    icon: "twitter",
     newTab: true,
   },
   {
@@ -119,5 +83,3 @@ export const BtnList = [
     newTab: true,
   },
 ];
-
-

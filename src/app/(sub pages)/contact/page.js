@@ -23,12 +23,19 @@ export default function Contact() {
             summon the wizard
           </h1>
           <p className="text-center font-light text-sm xs:text-base">
-            Step into the circle of enchantment and weave your words into the
-            fabric of the cosmos. Whether you seek to conjure collaborations,
-            unlock mysteries, or simply share tales of adventure, your messages
-            are treasured scrolls within this realm. Use the form below to send
-            your missives through the ethereal network, and await the whisper of
-            magic in response.
+            Yo, welcome to the ✨vibe zone✨ where chaos is the aesthetic and
+            magic is the whole damn mood. Not gonna lie, if you’re here to squad
+            up for collabs, spill the juiciest tea, or drop your most savage
+            takes, you’re about to vibe like a whole skibidi. Your words?
+            Straight-up rare Pokémon cards—undefeated and iconic. Drop your
+            message below, and who knows, the universe might just slide back
+            with some *straight fire*. Also, real talk: help a wizard out—I’m
+            cooked out here battling the holy trinity of Gen Z struggles— TikTok
+            brainrot, caffeine dependency, and a job market that’s *mid* af. The
+            grind is savage, but this dragon of despair ain’t gonna slay itself.
+            Let’s manifest that bag, get a LinkedIn glow-up, and level up our
+            whole vibe. Cast your spell (or slide into the DMs, no cap), every
+            bit helps. Let’s vibe and thrive, fam. 🪄💼✨
           </p>
         </div>
         <Form />
